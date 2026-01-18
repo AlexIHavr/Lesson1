@@ -1,3 +1,3 @@
-import { hello } from './test.js';
+import { hello } from "./test.js";
 
-console.log('Hello' + hello);
+console.log("Hello" + hello);
